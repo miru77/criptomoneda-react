@@ -39,7 +39,7 @@ const SelectCripto = () => (
                     value={state}
             >
                     
-                    <option value="">- Selecione -</option>  
+                    <option value="">-- Selecione --</option>  
                     { opciones.map(opcion => (
                     <option key={opcion.CoinInfo.Id} value={opcion.CoinInfo.Name}>{opcion.CoinInfo.FullName}</option>
                     ))}
