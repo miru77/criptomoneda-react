@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory hola, you can run:
 
+dede master
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
